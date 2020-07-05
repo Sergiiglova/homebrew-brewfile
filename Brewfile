@@ -56,9 +56,9 @@ mas "Amphetamine", id: 937984704
 mas "AudioNote - Notepad and Voice Recorder", id: 406393290
 mas "Bubble Translate 3", id: 1439344351
 mas "iThoughtsX", id: 720669838
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft PowerPoint", id: 462062816
-mas "Microsoft Word", id: 462054704
+# mas "Microsoft Excel", id: 462058435
+# mas "Microsoft PowerPoint", id: 462062816
+# mas "Microsoft Word", id: 462054704
 mas "OneDrive", id: 823766827
 mas "Telegram", id: 747648890
 mas "Todoist", id: 585829637
